@@ -8,9 +8,3 @@ __pycache__/
 .vscode/
 
 *.log
-
-dataset/*
-!dataset/README.md
-
-screenshots/*
-!screenshots/.gitkeep

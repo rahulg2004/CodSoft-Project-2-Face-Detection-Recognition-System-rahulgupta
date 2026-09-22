@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+.vscode/
+
+*.log
+
+dataset/*
+!dataset/README.md
+
+screenshots/*
+!screenshots/.gitkeep
